@@ -1,3 +1,2 @@
-warnings
 numpy
 pandas
